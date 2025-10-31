@@ -1,4 +1,4 @@
-# The Kaelen Project: Architectural Receipts (Phase 4)
+# The Kaelen Project: Architectural Snippets (Phase 4)
 
 This repository contains non-sensitive, isolated code snippets from the Kaelen Project's Phase 4 architecture, provided to verify the system's coded nature and persistent data model.
 
